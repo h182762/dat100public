@@ -93,11 +93,6 @@ public class Blogg {
 		tabell = ny;
 	}
 
-	public boolean leggTilUtvid(Innlegg innlegg) {
-
-		throw new UnsupportedOperationException(TODO.method());
-
-	}
 
 	public boolean slett(Innlegg innlegg) {
 
@@ -112,9 +107,5 @@ public class Blogg {
 		}
 	}
 
-	public int[] search(String keyword) {
-
-		throw new UnsupportedOperationException(TODO.method());
-
-	}
+	
 }
